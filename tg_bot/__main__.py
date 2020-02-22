@@ -140,7 +140,7 @@ Click Help button to find out more about how to use me to my full potential.\n\n
 
 
     
-    text += "Want to add me to your group? [Click here!](t.me/Kanna_Chan_Bot?startgroup=true)!\n\
+    text += "Want to add me to your group? [Click here!](t.me/Lucy_Robot?startgroup=true)!\n\
     Maintained by [this awesome person](https://t.me/itsAviral).\n\n"
 
     keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/LucySupportChat")]]
